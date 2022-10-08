@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working for [@Confluence](https://github.com/GitHub-Confluence)
-- 💬 About me: <p> Hello, my name is Gabriel👨🏾‍💻 (call me G3) and I’ve been in love with technology since I was just a kid, actually, curious with all stuff always trying to know how things work also known as breaking things, I’d call it learning (lol). And there are always something new to learn and that’s why I wanna be a lifelong learner #lifelonglearning  using programming to build the future and improve the world someday! </p>
+- 💬 About me: <p> Hello, my name is Gabriel👨🏾‍💻 - you can call me G3 ;) - and I’ve been in love with technology since I was just a kid, actually, curious with all stuff always trying to know how things work also known as breaking things, I’d call it learning (lol). And there are always something new to learn and that’s why I wanna be a lifelong learner #lifelonglearning  using programming to build the future and improve the world someday! </p>
 
 ## Reach me:
 
